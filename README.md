@@ -1,5 +1,5 @@
 # sololevelingsystemui
-Certainly! Here’s a README description tailored for the Solo Leveling System UI code given above:
+[![Netlify Status](https://api.netlify.com/api/v1/badges/07d86b23-7adc-4d5a-9730-07bbe3ca3fee/deploy-status)](https://app.netlify.com/projects/sololeveling-ui/deploys)
 
 # Solo Leveling System UI
 
